@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"anethema_battler","characterIndex":0,"characterName":"anethema_walk","classId":3,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"anethema_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anethema Witchamajig","nickname":"Anthema","note":"","profile":""},
-{"id":2,"battlerName":"emma_battler","characterIndex":0,"characterName":"emma_walk","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"emma_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emma Funnygust","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"emma_battler","characterIndex":0,"characterName":"emma_walk","classId":5,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"emma_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emma Funnygust","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"karin_battler","characterIndex":0,"characterName":"karin_walk","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"karin_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Karin Erisian","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"kyomi_battler","characterIndex":0,"characterName":"kyomi_walk","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"kyomi_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kyomi Erisian","nickname":"kee-oni","note":"","profile":""}
 ]
