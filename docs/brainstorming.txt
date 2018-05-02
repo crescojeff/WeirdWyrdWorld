@@ -1,0 +1,13 @@
+Conflict: the protag, Anethema the witch, wants to meet her patron but has no idea who/what/where it is.  Little does she know that several forces are actually competing to be this wide-eyed and extremely trusting girl's patron.  Once she has 'chosen' one, the others will surely want to snuff out her spark before their competition can make it a true light in the darkness.
+Setting{
+-Anethema's actions influence what her patron turns out to be, the jilted patrons she has to fight, and resultant endings.
+}
+Locations[
+1. Albrecht Village: the starting point of the game, Albrecht is a sleepy little village where Anethema has been serving as the local hedge witch for several years.  The villagers respect her, but the adults keep her at arms length because they are uncomfortable with the details of her powers (especially Woollace).  Children and animals love her, however. 
+]
+Characters[
+1. Anethema: extremely curious and trusting, she represents a dangerous combination of intelligent and unwise.  Infamous for being oblivious to her general surroundings, usually because she is distracted by something shiny.
+2. Woollace: a spider-pug and Anethema's familiar.  If he knows anything about their patron, he isn't sharing.  Communicates through waffle smells, and is primarily motivated by food.
+3. Baatezu, patron of law:
+
+]
