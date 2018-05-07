@@ -3,7 +3,7 @@ Setting{
 -Anethema's actions influence what her patron turns out to be, the jilted patrons she has to fight, and resultant endings.
 }
 Locations[
-1. Albrecht Village: the starting point of the game, Albrecht is a sleepy little village where Anethema has been serving as the local hedge witch for several years.  The villagers respect her, but the adults keep her at arms length because they are uncomfortable with the details of her powers (especially Woollace).  Children and animals love her, however.
+1. Albrecht Village: the starting point of the game, Albrecht is a sleepy little village where Anethema has been serving as the local hedge witch for several years.  The villagers respect her, but the adults keep her at arms length because they are uncomfortable with the details of her powers (especially everything Woollace-adjacent).  Children and animals love her, however.
 2. Albright City
 3. Whimsical Wood
 4. Friendly Forest: once a place of placid woodland critters true to its name, the new Dearl of Fumbleheim has infested the forest with humorless humans and hunted the critters to near local extinction.
@@ -21,7 +21,7 @@ Characters[
 Storyboard{
 1. Anethema starts out with only Woollace in Albrecht village, feeling content but bored and lonely.  The adult villagers distance themselves from her strangeness.  As the story opens, Anethema receives a visit in her forest hut from a very desperate mayor's aid -- an epidemic has stricken the townspeople!  Anethema tries her best to help them, but quickly learns that curing this ailment is beyond her skill.  What's more, she detects a magical artifact radiating overwhelming necromancy from a shipment recently brought in by a strange traveling merchant.  It is an idol of some strange old god carved in obsidian, and it looks eldritch af.
 	--Quests:
-	1. Seek out a cleric from Albright city far to the East to cure the people.
+	1. Seek out a cleric from Albright city far to the East to cure the people. [Quest params: time limit of 5 days to save 100% of the population, then minus 10% each day.  After fifteen days, the village will be nothing but a mass grave.  Completion effects: If she gets any of the villagers cured in any way, +1 healing.  If she cures 100% with the cleric, additional +2 healing and mercy and +1 peace.  If she saves 100% by finding and slaying the Merchant of Death, +2 Death, Vengeance, Revenge and +1 Strength]
 	2. Take the idol to the mage's guild or one of the churches in Albright city to be identified.
 	3. Find the strange merchant who headed South after leaving Albrecht, towards the Whimsical Wood.    
 }
