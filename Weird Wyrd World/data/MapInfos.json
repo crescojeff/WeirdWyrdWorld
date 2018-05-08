@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Albrecht Village","order":1,"parentId":0,"scrollX":546,"scrollY":338.6666666666667}
+{"id":1,"expanded":true,"name":"Albrecht Village","order":1,"parentId":0,"scrollX":546,"scrollY":338.6666666666667},
+{"id":2,"expanded":false,"name":"Albrecht Village: Curiosities Shop","order":2,"parentId":1,"scrollX":832,"scrollY":640}
 ]
